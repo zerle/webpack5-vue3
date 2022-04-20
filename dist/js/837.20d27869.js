@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack5_vue3=self.webpackChunkwebpack5_vue3||[]).push([[837],{837:(e,t,u)=>{u.r(t),u.d(t,{default:()=>c});var n=u(6252),s=u(3577),a=u(2262);const r={name:"About",setup:function(){return{state:(0,a.qj)({msg:"About"})}}},c=(0,u(3744).Z)(r,[["render",function(e,t,u,a,r,c){return(0,n.wg)(),(0,n.iD)("div",null,(0,s.zw)(a.state.msg),1)}]])}}]);
